@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parthpatil2000/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Pronoun likhna zaruri hain?
+
 
