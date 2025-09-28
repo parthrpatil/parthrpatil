@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on *Energy Analytics*
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
-- 📫 How to reach me: [linkedin.com/in/parthpatil2000/](https://www.linkedin.com/in/parthpatil2000/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parthpatil2000/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Pronoun likhna zaruri hain?
 
